@@ -4,7 +4,7 @@ let tentativas = 1;
 
 function exibirMensagemInicial(){
     exibirTextoNaTela('h1', 'Jogo número secreto');
-    exibirTextoNaTela('p', 'Escreva de 1 a 10');
+    exibirTextoNaTela('p', 'Escreva de 1 a 100');
 }
 
 console.log(numeroSecreto);
